@@ -1,3 +1,3 @@
 # CoinJar
 
-Very simple coin calculator for pennies, nickles, and dimes.
+Very simple coin calculator for pennies, nickles, dimes, and quarters.
